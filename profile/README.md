@@ -4,8 +4,8 @@ E36 Knots comes with years of experience operating France's biggest data cluster
 
 ## Team
 
-| [Gauthier Leonard](https://github.com/Nuttymoon)</br>![Gauthier's PP](https://github.com/Nuttymoon.png) | [Léo Schoukroun](https://github.com/leopaul36)</br>![Léo's PP](https://github.com/leopaul36.png) | [Antoine Laborde](https://github.com/lToinou)</br>![Antoine's PP](https://github.com/lToinou.png) |
-| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| [Gauthier Leonard <img src="https://github.com/Nuttymoon.png" alt="Gauthier's PP" width=200 height=200 />](https://github.com/Nuttymoon) | [Léo Schoukroun <img src="https://github.com/leopaul36.png" alt="Léo's PP" width=200 height=200 />](https://github.com/leopaul36) | [Antoine Laborde <img src="https://github.com/lToinou.png" alt="Antoine's PP" width=200 height=200 />](https://github.com/lToinou) |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 
 ## Products
 
