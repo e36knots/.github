@@ -13,6 +13,6 @@ E36 Knots comes with years of experience operating France's biggest data cluster
 
 Ash is an **an enterprise-grade toolkit to develop [Subnets](https://docs.avax.network/subnets) and operate [Avalanche](https://avax.network) nodes**.
 
-[GitHub organization](https://github.com/AshAvalanche)
+[AshAvalanche GitHub](https://github.com/AshAvalanche)
 
-[Documentation website](https://docs.ash.center)
+[ash.center](https://ash.center)
