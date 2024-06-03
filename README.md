@@ -8,12 +8,22 @@ E36 Knots comes with years of experience operating France's biggest data cluster
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   [Alexandre Gros](https://github.com/Al3xGROS) <br> [<img src="https://github.com/Al3xGROS.png" alt="Alexandre's PP" width=200 height=200 />](https://github.com/Al3xGROS)   |  [Gaétan Cabaret](https://github.com/servalD) <br> [<img src="https://github.com/servalD.png" alt="Gaetan's PP" width=200 height=200 />](https://github.com/servalD)   | [Gonzalo Etse](https://github.com/gonzaloetjo) <br> [<img src="https://github.com/gonzaloetjo.png" alt="Alexandre's PP" width=200 height=200 />](https://github.com/gonzaloetjo) |
 
-## Products
+## Projects
 
 ### Ash
 
-Ash is an Appchain-as-a-Service platform leveraging [Avalanche](https://avax.network) [Subnets](https://docs.avax.network/subnets).
+Ash is an Appchain-as-a-Service platform leveraging [Avalanche](https://avax.network) [Subnets](https://docs.avax.network/subnets)
 
-[AshAvalanche GitHub](https://github.com/AshAvalanche)
+**GitHub:** [AshAvalanche](https://github.com/AshAvalanche)
 
-[ash.center](https://ash.center)
+**Website:** [ash.center](https://ash.center)
+
+**Twitter/X:** [@ash_avax](https://twitter.com/ash_avax)
+
+### Suzaku
+
+Suzaku is a restaking protocol for sovereign networks.
+
+**GitHub:** [suzaku-network](https://github.com/suzaku-network)
+
+**Twitter/X:** [@SuzakuNetwork](https://twitter.com/SuzakuNetwork)
